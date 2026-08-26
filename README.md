@@ -1,19 +1,23 @@
-# TÍTULO DO PROJETO
+# SAÚDE MENTAL - VICÍO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Mentoring`
+`2026 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- André Neri Rodrigues
+- Douglas Salles Correia
+- João Pedro Velho Gil
+- Luis Henrique Acras Teodoro
+- Miguel Marques Ramos
+- Raphael Alkmin 
+- Vitor Kelvin Ribeiro
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
+- Udo Fritzke Junior
 
 # Documentação
 
