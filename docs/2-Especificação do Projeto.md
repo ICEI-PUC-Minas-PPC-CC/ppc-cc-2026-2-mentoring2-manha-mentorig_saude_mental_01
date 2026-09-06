@@ -66,10 +66,33 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
+| ID     | Descrição do Requisito                                                                                                                                        | Prioridade |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| RF-001 | O sistema deverá permitir o cadastro de usuários.                                                                                                             | ALTA       |
+| RF-002 | O sistema deverá permitir que o usuário realize login e logout de forma segura.                                                                               | ALTA       |
+| RF-003 | O sistema deverá permitir que o usuário visualize e altere suas informações de perfil.                                                                        | MÉDIA      |
+| RF-004 | O sistema deverá permitir que o usuário registre o tempo utilizado em redes sociais e plataformas de entretenimento.                                          | ALTA       |
+| RF-005 | O sistema deverá permitir que o usuário registre quais plataformas digitais utiliza com maior frequência.                                                     | ALTA       |
+| RF-006 | O sistema deverá permitir que o usuário registre situações em que utiliza plataformas digitais, como momentos de tédio, estresse, cansaço ou antes de dormir. | MÉDIA      |
+| RF-007 | O sistema deverá permitir que o usuário consulte o histórico de seus registros de hábitos digitais.                                                           | ALTA       |
+| RF-008 | O sistema deverá apresentar relatórios sobre os hábitos digitais registrados pelo usuário.                                                                    | ALTA       |
+| RF-009 | O sistema deverá apresentar gráficos que auxiliem o usuário a visualizar seu tempo de utilização das plataformas digitais.                                    | MÉDIA      |
+| RF-010 | O sistema deverá permitir que o usuário defina metas relacionadas ao seu uso de plataformas digitais.                                                         | ALTA       |
+| RF-011 | O sistema deverá permitir que o usuário acompanhe sua evolução em relação às metas estabelecidas.                                                             | ALTA       |
+| RF-012 | O sistema deverá permitir que o usuário altere ou exclua suas metas.                                                                                          | MÉDIA      |
+| RF-013 | O sistema deverá apresentar sugestões de estratégias de autorregulação relacionadas aos hábitos registrados pelo usuário.                                     | ALTA       |
+| RF-014 | O sistema deverá permitir que o usuário registre atividades alternativas realizadas durante períodos em que deseja reduzir o uso de plataformas digitais.     | MÉDIA      |
+| RF-015 | O sistema deverá disponibilizar conteúdos educativos sobre hábitos digitais e uso consciente da tecnologia.                                                   | ALTA       |
+| RF-016 | O sistema deverá disponibilizar informações sobre mecanismos utilizados pelas plataformas digitais para manter a atenção dos usuários, como notificações,
+           recomendações personalizadas e rolagem contínua.                                                                                                              | MÉDIA      |
+| RF-017 | O sistema deverá disponibilizar conteúdos sobre estratégias para melhorar a concentração e a organização da rotina.                                           | ALTA       |
+| RF-018 | O sistema deverá disponibilizar conteúdos educativos sobre sono, descanso e uso de dispositivos digitais antes de dormir.                                     | MÉDIA      |
+| RF-019 | O sistema deverá apresentar informações sobre comportamentos impulsivos relacionados ao uso de ambientes digitais.                                            | MÉDIA      |
+| RF-020 | O sistema deverá apresentar ao usuário um resumo dos seus hábitos digitais com base nos registros realizados.                                                 | ALTA       |
+| RF-021 | O sistema deverá permitir que o usuário reflita sobre possíveis impactos dos seus hábitos digitais em atividades como estudo, trabalho, lazer e descanso.     | ALTA       |
+| RF-022 | O sistema deverá apresentar recomendações educativas relacionadas aos objetivos definidos pelo próprio usuário.                                               | MÉDIA      |
+| RF-023 | O sistema deverá disponibilizar informações sobre serviços e canais de apoio relacionados à saúde mental, quando necessário.                                  | ALTA       |
+
 
 
 ### Requisitos não Funcionais
