@@ -44,8 +44,11 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Lucas Almeida | Controlar o tempo que passo utilizando plataformas de entretenimento  | Melhorar minha concentração nos estudos e dormir melhor |
+|Lucas Almeida | Coomprender melhor meus hábitos digitais e controlá-los de forma simples  | Controlar o uso de celular e manter meus objetivos de reduzir o uso destas plataformas |
+|Mariana Oliveira |Ter maior controle sobre meus hábitos digitais | Organizar melhor meu tempo entre estudos, trabalho e lazer |
+|Mariana Oliveira | Desenvolver uma relação mais saudável com a tecnologia | Conciliar melhor minhas responsabilidades e o meu tempo de lazer |
+|Mariana Oliveira | Reduzir comportamentos impulsivos relacionados ao uso de plataformas digitais | Evitar que esses comportamentos prejudiquem negativamente minha produtividade |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
