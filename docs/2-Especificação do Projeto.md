@@ -83,8 +83,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-013 | O sistema deverá apresentar sugestões de estratégias de autorregulação relacionadas aos hábitos registrados pelo usuário.                                     | ALTA       |
 | RF-014 | O sistema deverá permitir que o usuário registre atividades alternativas realizadas durante períodos em que deseja reduzir o uso de plataformas digitais.     | MÉDIA      |
 | RF-015 | O sistema deverá disponibilizar conteúdos educativos sobre hábitos digitais e uso consciente da tecnologia.                                                   | ALTA       |
-| RF-016 | O sistema deverá disponibilizar informações sobre mecanismos utilizados pelas plataformas digitais para manter a atenção dos usuários, como notificações,
-           recomendações personalizadas e rolagem contínua.                                                                                                              | MÉDIA      |
+| RF-016 | O sistema deverá informar como as plataformas digitais utilizam recursos para manter a atenção do usuário.                                                    | MÉDIA      |
 | RF-017 | O sistema deverá disponibilizar conteúdos sobre estratégias para melhorar a concentração e a organização da rotina.                                           | ALTA       |
 | RF-018 | O sistema deverá disponibilizar conteúdos educativos sobre sono, descanso e uso de dispositivos digitais antes de dormir.                                     | MÉDIA      |
 | RF-019 | O sistema deverá apresentar informações sobre comportamentos impulsivos relacionados ao uso de ambientes digitais.                                            | MÉDIA      |
