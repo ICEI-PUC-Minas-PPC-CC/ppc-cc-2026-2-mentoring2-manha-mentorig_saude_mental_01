@@ -1,3 +1,17 @@
+# Requisitos não funcionais
+| ID      | Descrição do Requisito                                                                                               | Prioridade |
+| ------- | -------------------------------------------------------------------------------------------------------------------- | ---------- |
+| RNF-001 | O sistema deverá ser responsivo e compatível com computadores, tablets e smartphones.                                | ALTA       |
+| RNF-002 | O sistema deverá processar requisições do usuário em até 3 segundos.                                                 | MÉDIA      |
+| RNF-003 | O sistema deverá possuir interface intuitiva e adequada para adolescentes e jovens adultos.                          | ALTA       |
+| RNF-004 | O sistema deverá garantir a proteção dos dados pessoais dos usuários.                                                | ALTA       |
+| RNF-005 | O sistema deverá seguir os princípios da LGPD para armazenamento e tratamento de dados.                              | ALTA       |
+| RNF-006 | O sistema deverá estar disponível 24 horas por dia, exceto em períodos de manutenção.                                | MÉDIA      |
+| RNF-007 | O sistema deverá utilizar linguagem clara e acessível ao público-alvo.                                               | ALTA       |
+| RNF-008 | O sistema deverá informar explicitamente que não realiza diagnósticos médicos ou psicológicos.                       | ALTA       |
+| RNF-009 | O sistema deverá apresentar informações provenientes de fontes científicas confiáveis.                               | ALTA       |
+| RNF-010 | O sistema deverá permitir futura expansão para novas funcionalidades relacionadas à educação digital e saúde mental. | BAIXA      |
+
 # Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
