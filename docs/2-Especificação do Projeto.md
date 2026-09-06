@@ -3,7 +3,7 @@
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 
-Definição do Problema
+# Definição do Problema
 
 Adolescentes e jovens adultos estão constantemente expostos a plataformas digitais desenvolvidas para manter a atenção do usuário por longos períodos. Recursos como notificações, recomendações personalizadas, rolagem infinita, recompensas variáveis e conteúdos disponíveis continuamente podem favorecer a repetição do comportamento.
 Entretanto, muitos usuários não percebem quando o uso deixa de ser apenas uma forma de entretenimento e passa a interferir negativamente em outras áreas da vida.
