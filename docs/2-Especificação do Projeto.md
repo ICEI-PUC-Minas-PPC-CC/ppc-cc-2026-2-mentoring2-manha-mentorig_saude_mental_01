@@ -2,16 +2,24 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
+Definição do Problema
+
+Adolescentes e jovens adultos estão constantemente expostos a plataformas digitais desenvolvidas para manter a atenção do usuário por longos períodos. Recursos como notificações, recomendações personalizadas, rolagem infinita, recompensas variáveis e conteúdos disponíveis continuamente podem favorecer a repetição do comportamento.
+Entretanto, muitos usuários não percebem quando o uso deixa de ser apenas uma forma de entretenimento e passa a interferir negativamente em outras áreas da vida.
+Dessa forma, como auxiliar adolescentes e jovens adultos a reconhecer padrões de uso problemático de ambientes digitais e desenvolver estratégias de autorregulação diante de estímulos e recompensas rápidas?
+A solução deve evitar tratar a tecnologia como algo necessariamente negativo. O objetivo é fornecer informações e ferramentas que permitam ao próprio usuário compreender seus hábitos e tomar decisões mais conscientes.
 
 ## Personas
 
-Exemplo:
-
-|**Camila Fiães**|           |                             | 
+|**Lucas Almeida**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 17 anos. **Naturalidade:** Belo Horizonte - Minas Gerais. **Ocupação:** Estudante do Ensino Médio.       |**Atribuições:** frequentar as aulas, realizar atividades escolares, estudar para avaliações e utilizar tecnologias digitais no cotidiano. 
+|**Motivações:** Deseja melhorar sua concentração nos estudos, dormir melhor e conseguir controlar o tempo que passa utilizando redes sociais e plataformas de entretenimento.  |**Frustações:** dificuldade para controlar o uso do celular, principalmente durante os momentos de estudo e antes de dormir. Frequentemente começa a utilizar redes sociais por alguns minutos e acaba permanecendo por muito mais tempo do que pretendia, prejudicando sua rotina e suas atividades escolares.   |**Hobbies, história:** gosta de jogar, assistir vídeos e acompanhar conteúdos nas redes sociais. Utiliza o smartphone diariamente e já tentou diminuir o tempo de uso algumas vezes, mas encontra dificuldades para manter seus objetivos. Busca maneiras simples de compreender e controlar melhor seus hábitos digitais.
+
+|**Mariana Oliveira**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 22 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Estudante universitária e estagiária.       |**Atribuições:** conciliar estudos e trabalho, realizar atividades acadêmicas, cumprir responsabilidades profissionais e administrar sua rotina pessoal. 
+|**Motivações:** Deseja ter maior controle sobre seus hábitos digitais, reduzir comportamentos impulsivos e organizar melhor seu tempo para conseguir conciliar estudos, trabalho, lazer e descanso.  |**Frustações:** dificuldade para interromper determinados comportamentos digitais, principalmente em momentos de tédio, estresse ou cansaço. Sente que perde tempo nas redes sociais e em plataformas de entretenimento, deixando de realizar atividades importantes e tendo dificuldade para manter limites estabelecidos por conta própria.   |**Hobbies, história:** gosta de utilizar redes sociais, assistir vídeos, acompanhar tendências da internet e sair com amigos. Durante a rotina universitária e profissional, passou a utilizar cada vez mais o celular como forma de distração. Percebe que alguns hábitos estão interferindo em sua produtividade e busca estratégias para desenvolver uma relação mais equilibrada com a tecnologia.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
