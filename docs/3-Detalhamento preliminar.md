@@ -80,3 +80,10 @@ Díaz Belamendia, M.. (2026). ANÁLISIS COGNITIVO DEL SCROLL INFINITO: UN ESTUDI
 
 FIGUEIRÊDO, João Vitor Moura. O impacto psicológico das aplicações de vídeos curtos e a sua relação com as características das aplicações: um mapeamento sistemático. 2024. 13 f. Artigo (Bacharelado em Ciência da Computação) - Universidade Federal de Campina Grande, Centro de Engenharia Elétrica e Informática, Campina Grande, Paraíba, Brasil, 2024.
 
+
+
+
+## Consulta e pesquisa a profissionais ou professores de áreas relacionadas ao tema:
+
+A aula com a Professor e Psicóloga Fernanda Resende trouxe uma visão sobre o impacto do uso de telas na saúde mental da sociedade. O foco majoritário foi direcionado as idades de desenvolvimento e chegando até na fase adulta. Destacando o fato do uso constante de telas juntamente de estímulos artificiais e excessivos desregulam precocemente os sistemas de recompensa e abrem precedentes para dependência ao longo da vida.
+Além disso, a professora apontou que atividades físicas regulares, interações e relações sociais presenciais e uma rotina de sono de qualidade desempenham papéis fundamentais para a manutenção da saúde mental. O grande problema do vício em teles é que ele concorre diretamente com esses pilares, prejudicando e muitas vezes inviabilizando a realização disso tudo no dia a dia.
