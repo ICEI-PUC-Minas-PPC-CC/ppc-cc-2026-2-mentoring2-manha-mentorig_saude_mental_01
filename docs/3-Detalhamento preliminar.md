@@ -76,6 +76,9 @@ Link do Forms com acesso a edição: https://docs.google.com/forms/d/1IkmjVaIrob
 
 ## Consulta e pesquisa a profissionais ou professores de áreas relacionadas ao tema:
 
+*Reunião ocorrida no dia 01/09/2026 às 21:00. Link:
+https://teams.microsoft.com/meet/277591672684296?p=hNg0FVzmZgXGslAC42*
+
 A aula com a Professor e Psicóloga Fernanda Resende trouxe uma visão sobre o impacto do uso de telas na saúde mental da sociedade. O foco majoritário foi direcionado as idades de desenvolvimento e chegando até na fase adulta. Destacando o fato do uso constante de telas juntamente de estímulos artificiais e excessivos desregulam precocemente os sistemas de recompensa e abrem precedentes para dependência ao longo da vida.
 
 Além disso, a professora apontou que atividades físicas regulares, interações e relações sociais presenciais e uma rotina de sono de qualidade desempenham papéis fundamentais para a manutenção da saúde mental. O grande problema do vício em teles é que ele concorre diretamente com esses pilares, prejudicando e muitas vezes inviabilizando a realização disso tudo no dia a dia.
