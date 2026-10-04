@@ -2,40 +2,19 @@
 
 ## Mecanismos utilizados pelas plataformas para estimular a permanência e a repetição do comportamento: 
 
-FOMO,Scroll Infinito, notificações, recomendações algoritmicas, recompensas variaveis, sequencias de uso
-
-Nome do mecanismo: _scrool_ infinito
-
-O que é?
-
-Como funciona o cérebro no uso?
-
-_FOMO (Fear Of Missing Out)_: Este é definido como o medo ou ansiedade de que outros estejam tendo experiências positivas ou divertidas sem a pessoa, sendo caracterizado pelo desejo de estar sempre conectado com os outros. (Ovadia,Netzer 2024) Assim este é um mecanismo muito efetivo para manter as pessoas conectadas as redes sociais constantemente basado no seu FOMO, mas isto tem consequências para os usuários pois este sentimento provoca desconforto e ansiedade quando desconectado do mundo on-line, que apesar de ter mostrado que isto ajuda as pessoas a se manterem mais conectadas e a se engajar socialmente mais frequentemente, a longo prazo isto tem efeitos negativos na saúde mental do usuário pois o leva a tomar atitudes negativas para lidar com este sentimento, como o uso excessivo de redes sociais. (Brailovskaia, Margraf 2024)
+Eliminar isto aqui após terminar-->(FOMO,Scroll Infinito, notificações, recomendações algoritmicas, recompensas variaveis, sequencias de uso)
 
 
-_Scroll Infinito_: Este é provavelmente o mais importante de todos os aspectos, ele é basado em um design que busca "obrigar" o usuário a ficar inconscientemente consumindo conteúdo por longos periodos, mesmo que a pessoa não tivesse essa intenção, fazendo métodos também como a recompensa variavel (explicada mais a frente) tal e como jogos de azar, junto a constante liberações de dopamina, que são pequenas mas suficientes para fazer a pessoa ficar "viciada" neste loop. Isto tem óbvios problemas, pois não só faz o usuário perder noção do tempo e do que ia fazer, mas também é danino para a atenção, pois já foi comprovado que pessoas que estão no scroll infinito tem uma memória consideravelmente deteriorada sobre o que viram.  
+_FoMO (Fear Of Missing Out):_ Este é definido como o medo ou ansiedade de que outras pessoas estejam tendo experiências mais gratificantes das quais a pessoa está ausente, sendo acompanhado pelo desejo de permanecer continuamente conectada ao que os outros estão fazendo. Assim, o FoMO pode contribuir para manter as pessoas conectadas às redes sociais, já que o sentimento de estar perdendo alguma experiência ou informação pode levar o indivíduo a verificar e acompanhar constantemente o que está acontecendo no ambiente online. 
+O estudo de Ovadia e Russo-Netzer (2024) conseguiu identificar que o FoMO pode ser acompanhado por sentimentos de exclusão, desconexão, inadequação, ansiedade, solidão e pressão, especialmente quando a pessoa percebe que outras pessoas estão vivenciando experiências das quais ela não participa. Todas consequências negativas para a vida social do individuo
 
 
-
-## Perguntas para o formulário de diagnóstico com os adolescentes/pré-adolescentes:
-
-
+_Scroll Infinito:_ Este é um método de design que permite ao usuário continuar consumindo conteúdo sem os pontos de interrupção que existiam em modelos de navegação mais tradicionais. Dessa forma, o usuário pode continuar deslizando pela plataforma sem precisar chegar ao final de uma página ou realizar uma ação específica para carregar uma nova quantidade de conteúdo. A ausência desses pontos de corte favorece uma navegação contínua e pode fazer com que o processamento do conteúdo passe de uma forma mais ativa para uma forma mais automática e menos consciente. Desta forma, esse tipo de navegação também pode favorecer a permanência do usuário ao criar uma exploração contínua e uma incerteza sobre qual será o próximo conteúdo apresentado. 
+Segundo o estudo de Belamendia, o fluxo contínuo pode fazer com que parte dos recursos cognitivos seja direcionada para a busca pelo próximo estímulo, em vez de para a avaliação do conteúdo que já foi apresentado. Além disso, a ausência de pontos de corte pode dificultar a criação de lembranças diferenciadas sobre o que foi visto, já que o conteúdo é apresentado como um fluxo contínuo e homogêneo.
 
 
-Referências bibliográficas:
-
-Littman-Ovadia, H., Russo-Netzer, P. Exploring the lived experience and coping strategies of Fear of Missing Out (FoMO) among emerging adults. Curr Psychol 43, 32665–32685 (2024). https://doi.org/10.1007/s12144-024-06793-w
-
-Julia Brailovskaia, Jürgen Margraf,
-From fear of missing out (FoMO) to addictive social media use: The role of social media flow and mindfulness,
-Computers in Human Behavior,Volume 150,2024,107984,ISSN 0747-5632,https://doi.org/10.1016/j.chb.2023.107984.
-
-(importante) https://revista.domhelder.edu.br/index.php/veredas/article/view/7654
-
-
-(por olar) https://burjcdigital.urjc.es/items/a1892a2a-5374-4c4c-a3fe-40dd625f6f9e
-(por olhar) https://dspace.sti.ufcg.edu.br/handle/riufcg/38185
-
+_Notificações:_ As notificações funcionam como estímulos que chamam novamente a atenção do usuário para a plataforma, podendo contribuir para a necessidade de verificar o que está acontecendo no ambiente online. Dentro do contexto do FoMO, isso é especialmente relevante porque o desejo de permanecer continuamente conectado está relacionado ao medo de estar desatualizado ou de perder experiências, acontecimentos e conversas.
+A relação entre notificações e permanência nas redes também pode ser compreendida a partir do conceito de *flow* apresentado por Brailovskaia e Margraf (2024). O estudo encontrou uma relação positiva entre FoMO, *flow* nas redes sociais e uso aditivo das plataformas, em que indivíduos com maior FoMO apresentaram maior *flow*, enquanto níveis maiores de *flow* estiveram associados a maior tendência de uso aditivo. Assim, notificações podem atuar como um dos estímulos que levam o usuário a retornar à plataforma e continuar participando desse fluxo de interação, especialmente quando existe uma preocupação em permanecer conectado ao que está acontecendo.
 
 
 _Recomendações algorítmicas_
@@ -83,4 +62,21 @@ YouTube: Sistema de recomendação do YouTube
 Meta: Como a inteligência artificial influencia o que você vê no Facebook e Instagram
 
 DataReportal: Digital 2025: Brazil
+
+
+
+## Perguntas para o formulário de diagnóstico com os adolescentes/pré-adolescentes:
+
+
+Referências bibliográficas:
+
+Littman-Ovadia, H., Russo-Netzer, P. Exploring the lived experience and coping strategies of Fear of Missing Out (FoMO) among emerging adults. Curr Psychol 43, 32665–32685 (2024). https://doi.org/10.1007/s12144-024-06793-w
+
+Julia Brailovskaia, Jürgen Margraf,From fear of missing out (FoMO) to addictive social media use: The role of social media flow and mindfulness,Computers in Human Behavior,Volume 150,2024,107984,ISSN 0747-5632,https://doi.org/10.1016/j.chb.2023.107984.
+
+Costa Júnior, J. F., Ferreira, A. A., Santos, M. M. de O., Pereira, A. L. S., Ferreira, A. A. F., Soares, G. dos R., … Corona, B. F. (2026). A ROLAGEM INFINITA NAS REDES SOCIAIS E O PERIGO POR TRÁS DESTA PRÁTICA: UMA REVISÃO SOBRE OS IMPACTOS NO DESENVOLVIMENTO DE CRIANÇAS E ADOLESCENTES. Veredas Do Direito, 23(12), e7654. https://doi.org/10.18623/rvd.v23.7654
+
+Díaz Belamendia, M.. (2026). ANÁLISIS COGNITIVO DEL SCROLL INFINITO: UN ESTUDIO SOBRE LA ATENCIÓN DEL CONSUMIDOR DIGITAL Y SU EFECTO EN EL RECUERDO DE MARCA EN EL E-COMMERCE. https://hdl.handle.net/10115/469757
+
+FIGUEIRÊDO, João Vitor Moura. O impacto psicológico das aplicações de vídeos curtos e a sua relação com as características das aplicações: um mapeamento sistemático. 2024. 13 f. Artigo (Bacharelado em Ciência da Computação) - Universidade Federal de Campina Grande, Centro de Engenharia Elétrica e Informática, Campina Grande, Paraíba, Brasil, 2024.
 
