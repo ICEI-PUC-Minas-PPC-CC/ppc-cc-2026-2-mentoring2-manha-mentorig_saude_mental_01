@@ -68,6 +68,16 @@ DataReportal: Digital 2025: Brazil
 ## Perguntas para o formulário de diagnóstico com os adolescentes/pré-adolescentes:
 
 
+## Consulta e pesquisa a profissionais ou professores de áreas relacionadas ao tema:
+
+A aula com a Professor e Psicóloga Fernanda Resende trouxe uma visão sobre o impacto do uso de telas na saúde mental da sociedade. O foco majoritário foi direcionado as idades de desenvolvimento e chegando até na fase adulta. Destacando o fato do uso constante de telas juntamente de estímulos artificiais e excessivos desregulam precocemente os sistemas de recompensa e abrem precedentes para dependência ao longo da vida.
+
+Além disso, a professora apontou que atividades físicas regulares, interações e relações sociais presenciais e uma rotina de sono de qualidade desempenham papéis fundamentais para a manutenção da saúde mental. O grande problema do vício em teles é que ele concorre diretamente com esses pilares, prejudicando e muitas vezes inviabilizando a realização disso tudo no dia a dia.
+
+Buscando consolidar a pesquisa, alguns trabalhos desenvolvidos por professores, pesquisadores e psicólogos com grande propriedade técnica no estudo dos temas abordados foram analisados. O estudo publicado na Frontiers in Behavioral Neuroscience detalha a neurobiologia por trás das apostas e transtornos de bets, revelando que o vício está ligado a severas disfunções no sistema dopaminergico durante as fases de antecipação e avaliação das recompensas. A pesquisa de Zack, St. george e Clark reforça esse cenário ao explorar como os estímulos de “quase vitória” e a imprevisibilidade das recompensas causam altos picos na liberação de dopamina. No campo das redes sociais, uma extensa revisão da PubMed estruturou os principais fatores psicossociais que levam os jovens a dependência crônica de vídeos curtos. Simultaneamente, a pesquisa do professor Keith Robert Head, da Universidade Capella, publicada na ResearchGate, documentou resultados alarmantes: Ele comprovou com dados que a exposição massiva a vídeos curtos, reduz drasticamente a atenção sustentada, o que afeta o desempenho acadêmico e chega a provocar anomalias na massa branca do cérebro.
+
+Para complementar essa visão com aplicabilidade, de acordo com o artigo “Dopamina: Você manda?” do portal Vida Longa e Feliz. O texto esclarece de forma acessível que a dopamina atua mais fortemente na expectativa e no desejo de uma recompensa do que no prazer da ação em si, o que explica por que ficamos presos no “piloto automático” aguardando notificações e atualizações de feed. 
+
 Referências bibliográficas:
 
 Littman-Ovadia, H., Russo-Netzer, P. Exploring the lived experience and coping strategies of Fear of Missing Out (FoMO) among emerging adults. Curr Psychol 43, 32665–32685 (2024). https://doi.org/10.1007/s12144-024-06793-w
@@ -80,13 +90,17 @@ Díaz Belamendia, M.. (2026). ANÁLISIS COGNITIVO DEL SCROLL INFINITO: UN ESTUDI
 
 FIGUEIRÊDO, João Vitor Moura. O impacto psicológico das aplicações de vídeos curtos e a sua relação com as características das aplicações: um mapeamento sistemático. 2024. 13 f. Artigo (Bacharelado em Ciência da Computação) - Universidade Federal de Campina Grande, Centro de Engenharia Elétrica e Informática, Campina Grande, Paraíba, Brasil, 2024.
 
+HEAD, K. R. Short-form video use and sustained attention: a narrative review (2019–2025). International Journal of Community Empowerment & Society Administration, v. 2, n. 4, p. 60-67, out. 2025. Disponível em: https://www.researchgate.net/publication/397712802_Short-form_Video_Use_and_Sustained_Attention_A_Narrative_Review_2019-2025. Acesso em: 4 out. 2026.
+
+LINNET, J. Neurobiological underpinnings of reward anticipation and outcome evaluation in gambling disorder. Frontiers in Behavioral Neuroscience, v. 8, art. 100, 25 mar. 2014. DOI: 10.3389/fnbeh.2014.00100. Disponível em: https://www.frontiersin.org/articles/10.3389/fnbeh.2014.00100/full. Acesso em: 4 out. 2026.
+
+MACHADO, C. Dopamina: você manda? A química que sequestrou o seu foco. Vida Longa e Feliz | Biohacking, 1 nov. 2025. Disponível em: https://vidalongaefeliz.substack.com/p/dopamina-voce-manda. Acesso em: 4 out. 2026.
+
+ZACK, M.; ST GEORGE, R.; CLARK, L. Dopaminergic signaling of uncertainty and the aetiology of gambling addiction. Progress in Neuro-Psychopharmacology and Biological Psychiatry, 2020. Disponível em: https://gamblingresearch.sites.olt.ubc.ca/files/2020/04/ZackStGeorgeClark_2020_PNBP_AAM.pdf. Acesso em: 4 out. 2026
+
+ZHAN, X. et al. Influencing factors of short-form video addiction among Chinese. Frontiers in Psychology, 2025. Disponível em: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12498229/. Acesso em: 4 out. 2026.
 
 
 
-## Consulta e pesquisa a profissionais ou professores de áreas relacionadas ao tema:
 
-A aula com a Professor e Psicóloga Fernanda Resende trouxe uma visão sobre o impacto do uso de telas na saúde mental da sociedade. O foco majoritário foi direcionado as idades de desenvolvimento e chegando até na fase adulta. Destacando o fato do uso constante de telas juntamente de estímulos artificiais e excessivos desregulam precocemente os sistemas de recompensa e abrem precedentes para dependência ao longo da vida.
 
-Além disso, a professora apontou que atividades físicas regulares, interações e relações sociais presenciais e uma rotina de sono de qualidade desempenham papéis fundamentais para a manutenção da saúde mental. O grande problema do vício em teles é que ele concorre diretamente com esses pilares, prejudicando e muitas vezes inviabilizando a realização disso tudo no dia a dia.
-
-Buscando consolidar a pesquisa, alguns trabalhos desenvolvidos por professores, pesquisadores e psicólogos com grande propriedade técnica no estudo dos temas abordados foram analisados. O estudo publicado na Frontiers in Behavioral Neuroscience detalha a neurobiologia por trás das apostas e transtornos de bets, revelando que o vício está ligado a severas disfunções no sistema dopaminergico durante as fases de antecipação e avaliação das recompensas. A pesquisa de Zack, St. george e Clark reforça esse cenário ao explorar como os estímulos de “quase vitória” e a imprevisibilidade das recompensas causam altos picos na liberação de dopamina. No campo das redes sociais, uma extensa revisão da PubMed estruturou os principais fatores psicossociais que levam os jovens a dependência crônica de vídeos curtos. Simultaneamente, a pesquisa do professor Keith Robert Head, da Universidade Capella, publicada na ResearchGate, documentou resultados alarmantes: Ele comprovou com dados que a exposição massiva a vídeos curtos, reduz drasticamente a atenção sustentada, o que afeta o desempenho acadêmico e chega a provocar anomalias na massa branca do cérebro.
