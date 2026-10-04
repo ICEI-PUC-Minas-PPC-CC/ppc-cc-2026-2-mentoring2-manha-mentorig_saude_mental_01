@@ -71,6 +71,8 @@ DataReportal: Digital 2025: Brazil
 
 ## Perguntas para o formulário de diagnóstico com os adolescentes/pré-adolescentes:
 
+Link do Forms com acesso a edição: https://docs.google.com/forms/d/1IkmjVaIrobamTYqkVj1ARvjU1JfJds2B4p793tVLtiE/edit
+
 
 ## Consulta e pesquisa a profissionais ou professores de áreas relacionadas ao tema:
 
