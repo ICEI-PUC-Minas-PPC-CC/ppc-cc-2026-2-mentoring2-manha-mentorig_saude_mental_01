@@ -2,7 +2,7 @@
 
 ## Mecanismos utilizados pelas plataformas para estimular a permanência e a repetição do comportamento: 
 
-Eliminar isto aqui após terminar-->(FOMO,Scroll Infinito, notificações, recomendações algoritmicas, recompensas variaveis, sequencias de uso)
+
 
 
 _FoMO (Fear Of Missing Out):_ Este é definido como o medo ou ansiedade de que outras pessoas estejam tendo experiências mais gratificantes das quais a pessoa está ausente, sendo acompanhado pelo desejo de permanecer continuamente conectada ao que os outros estão fazendo. Assim, o FoMO pode contribuir para manter as pessoas conectadas às redes sociais, já que o sentimento de estar perdendo alguma experiência ou informação pode levar o indivíduo a verificar e acompanhar constantemente o que está acontecendo no ambiente online. 
