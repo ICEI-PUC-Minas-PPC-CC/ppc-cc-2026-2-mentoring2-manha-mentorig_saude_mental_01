@@ -1,5 +1,32 @@
 # Sprint 1
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 1.
+*Estratégias práticas de autorregulação digital*
 
-O detalhamento do que deverá será entregue, será definido em sala junto com seu(sua) professor(a).
+1. Gerenciamento de notificações
+
+   Propõe-se a redução e a organização das notificações recebidas pelos dispositivos digitais, priorizando aquelas que possuem relevância para a comunicação e para as atividades cotidianas do indivíduo. Para isso, recomenda-se desativar notificações de curtidas, comentários, recomendações de conteúdo, transmissões ao vivo e ofertas promocionais, mantendo apenas os alertas considerados necessários. Também é recomendável estabelecer horários específicos para consultar mensagens e atualizações, evitando que o usuário interrompa constantemente suas atividades para verificar o smartphone.
+   
+   Essa estratégia fundamenta-se na relação entre notificações, FoMO e permanência nas redes sociais. Conforme apresentado por Brailovskaia e Margraf (2024), o FoMO apresenta relação com o flow nas redes sociais e com tendências de uso aditivo dessas plataformas. Nesse contexto, as notificações podem funcionar como estímulos externos que direcionam novamente a atenção do indivíduo para o ambiente digital, reforçando a necessidade de acompanhar continuamente as atualizações. Portanto, reduzir esses estímulos pode contribuir para diminuir interrupções e favorecer uma utilização mais consciente das plataformas.
+
+2. Estabelecimento de períodos sem telas
+
+   Propõe-se a criação de períodos específicos nos quais o indivíduo se afaste voluntariamente de smartphones, computadores e outros dispositivos digitais, priorizando atividades presenciais e experiências que não dependam de estímulos tecnológicos. Entre as possibilidades estão evitar o uso de aparelhos durante as refeições, estabelecer momentos sem telas antes de dormir, reservar horários para atividades físicas e manter períodos de estudo sem acesso às redes sociais. Recomenda-se que essas mudanças sejam implementadas gradualmente, respeitando a rotina e as necessidades de cada participante.
+
+   A fundamentação dessa estratégia está relacionada às orientações obtidas durante a consulta à professora e psicóloga Fernanda Resende, que destacou a importância das atividades físicas regulares, das relações sociais presenciais e de uma rotina de sono adequada para a manutenção da saúde mental. Segundo a profissional, o uso excessivo de telas pode competir diretamente com esses pilares, prejudicando sua realização no cotidiano. Dessa forma, estabelecer períodos sem telas representa uma maneira de recuperar espaço para atividades importantes ao desenvolvimento pessoal e social.
+
+3. Organização e monitoramento do tempo de uso
+
+   Propõe-se que os participantes acompanhem regularmente o tempo dedicado aos dispositivos e às diferentes plataformas digitais, utilizando os relatórios de utilização disponíveis nos próprios smartphones. A partir dessas informações, recomenda-se identificar os aplicativos que concentram maior parte do tempo de uso, estabelecer limites individuais e definir horários destinados ao consumo de entretenimento digital. Também é importante realizar avaliações periódicas para comparar o tempo planejado com o efetivamente utilizado, permitindo reconhecer dificuldades e ajustar os limites estabelecidos.
+
+   Essa estratégia relaciona-se aos mecanismos de scroll infinito e recomendações algorítmicas identificados na pesquisa. O scroll infinito elimina pontos naturais de interrupção do consumo de conteúdo, enquanto os algoritmos personalizam as recomendações de acordo com as interações e os interesses do usuário. Conforme discutido por Belamendia (2026), a continuidade do fluxo de conteúdos pode dificultar a interrupção da navegação e favorecer uma utilização menos consciente. Nesse sentido, o monitoramento permite que o indivíduo reconheça seus padrões de comportamento e estabeleça limites intencionais para o consumo digital.
+
+4. Identificação de gatilhos comportamentais
+
+   Propõe-se o desenvolvimento de uma prática de auto-observação na qual os participantes identifiquem situações, emoções e estímulos que antecedem o uso excessivo ou impulsivo de determinadas plataformas. Para isso, recomenda-se registrar os momentos em que surge a vontade de acessar redes sociais, consumir pornografia, assistir a vídeos curtos ou realizar apostas, observando as circunstâncias envolvidas. Entre os aspectos que podem ser analisados estão sentimentos de tédio, ansiedade, solidão, frustração, curiosidade e necessidade de aprovação social. Também é importante observar se determinados horários, ambientes ou acontecimentos aumentam a frequência desses comportamentos.
+   A fundamentação dessa proposta está relacionada ao estudo de Littman-Ovadia e Russo-Netzer (2024), que identifica associações entre o FoMO e sentimentos de exclusão, desconexão, inadequação, ansiedade e solidão. Além disso, os mecanismos de recompensa variável e validação social apresentados na pesquisa ajudam a compreender como determinados estímulos podem favorecer a repetição de comportamentos. Ao reconhecer os fatores que antecedem essas ações, o indivíduo passa a identificar situações de maior vulnerabilidade e pode desenvolver respostas mais conscientes diante dos impulsos.
+
+5. Criação de barreiras para comportamentos impulsivos
+
+   Propõe-se a utilização de mecanismos que dificultem o acesso imediato a plataformas e conteúdos associados a comportamentos que o indivíduo deseja controlar. Entre as medidas possíveis estão remover aplicativos da tela inicial, utilizar bloqueadores de sites e aplicativos durante períodos de estudo, encerrar sessões após a utilização e evitar manter atalhos de acesso a conteúdos que favoreçam comportamentos repetitivos. No caso das apostas on-line, podem ser adotadas medidas adicionais, como remover cartões e métodos de pagamento salvos, estabelecer limites financeiros e utilizar ferramentas de autoexclusão disponibilizadas pelas plataformas.
+
+   Essa estratégia fundamenta-se nos mecanismos de recompensa variável, gamificação e reforço comportamental discutidos durante a pesquisa. Conforme apresentado por Zack, St. George e Clark (2020), a imprevisibilidade das recompensas e os estímulos associados à expectativa de resultados possuem relevância na compreensão dos comportamentos relacionados às apostas. Nas redes sociais e nos jogos digitais, mecanismos semelhantes podem incentivar a continuidade das interações. Dessa forma, introduzir barreiras entre o impulso e a realização da ação pode reduzir a facilidade de repetição do comportamento e proporcionar oportunidades para decisões mais conscientes.
