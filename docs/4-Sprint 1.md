@@ -37,8 +37,22 @@
 
    A proposta está relacionada à identificação dos mecanismos tecnológicos utilizados pelas plataformas para estimular a permanência dos usuários. Considerando que notificações, recomendações algorítmicas e mecanismos de engajamento podem favorecer o uso prolongado, os recursos de bem-estar digital oferecem ferramentas para que o próprio indivíduo estabeleça condições de utilização mais adequadas. Entretanto, é importante destacar que essas ferramentas não garantem, isoladamente, a redução do uso problemático, sendo necessário associá-las à conscientização e ao desenvolvimento de hábitos mais equilibrados.
 
-7.7. Substituição de hábitos digitais por atividades alternativas
+7. Substituição de hábitos digitais por atividades alternativas
 
    Propõe-se estimular a substituição gradual de parte do tempo dedicado a comportamentos digitais excessivos por atividades que favoreçam o desenvolvimento pessoal, a interação social e o bem-estar. Entre as alternativas estão a prática de esportes, a leitura, o desenvolvimento de hobbies, a participação em atividades coletivas e a realização de atividades presenciais com familiares e amigos. Recomenda-se que os participantes estabeleçam pequenas metas relacionadas a essas atividades, buscando construir uma rotina na qual o entretenimento digital não represente a principal fonte de satisfação e ocupação do tempo livre.
 
    Essa estratégia fundamenta-se principalmente nas orientações da professora e psicóloga Fernanda Resende, que destacou a importância do sono, das atividades físicas e das relações sociais presenciais para a manutenção da saúde mental. Além disso, a proposta considera os resultados apresentados por Brailovskaia e Margraf (2024), que investigaram a relação entre FoMO, flow nas redes sociais e uso aditivo. Assim, ampliar as experiências fora do ambiente digital pode contribuir para reduzir a centralidade das plataformas na rotina dos indivíduos e favorecer o desenvolvimento de outras fontes de satisfação e realização pessoal.
+
+8. Estabelecimento de objetivos e intenções de uso
+   
+   Propõe-se incentivar os participantes a estabelecer objetivos claros antes de acessar dispositivos e plataformas digitais, identificando previamente a finalidade e o tempo aproximado de utilização. Dessa forma, recomenda-se substituir o acesso automático e sem propósito por decisões conscientes, como utilizar determinada rede social para responder mensagens, acompanhar um assunto específico ou compartilhar informações. Também é importante estabelecer critérios para encerrar a utilização, evitando que o acesso inicialmente direcionado se transforme em longos períodos de navegação não planejada.
+
+   Essa estratégia busca desenvolver a intencionalidade no uso das tecnologias, permitindo que o indivíduo diferencie atividades digitais necessárias daquelas realizadas por impulso ou hábito. Ao estabelecer previamente o propósito de cada acesso, o participante pode desenvolver maior consciência sobre suas escolhas e reduzir a utilização automática dos dispositivos.
+
+9. Organização do ambiente físico para reduzir distrações
+   
+   Propõe-se organizar os ambientes destinados ao estudo, ao descanso e às atividades cotidianas de maneira que a presença dos dispositivos digitais não represente uma fonte constante de distração. Entre as medidas possíveis estão manter o smartphone fora do campo de visão durante os estudos, evitar deixar aparelhos próximos à cama e estabelecer espaços específicos para sua utilização. Também se recomenda que os participantes mantenham os dispositivos em locais de fácil acesso apenas quando sua utilização for necessária.
+
+   Essa estratégia considera a influência dos estímulos ambientais sobre os comportamentos habituais. A presença constante de smartphones pode favorecer consultas automáticas, mesmo quando não existe uma necessidade específica de utilização. Dessa forma, modificar o ambiente físico pode reduzir a exposição a estímulos associados ao uso impulsivo e facilitar a manutenção de atividades que exigem concentração.
+
+
