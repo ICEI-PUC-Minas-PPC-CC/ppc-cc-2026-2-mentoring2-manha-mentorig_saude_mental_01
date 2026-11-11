@@ -55,6 +55,7 @@
 
    Essa estratégia considera a influência dos estímulos ambientais sobre os comportamentos habituais. A presença constante de smartphones pode favorecer consultas automáticas, mesmo quando não existe uma necessidade específica de utilização. Dessa forma, modificar o ambiente físico pode reduzir a exposição a estímulos associados ao uso impulsivo e facilitar a manutenção de atividades que exigem concentração.
 
+link para os slides editáveis: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-mentorig_saude_mental_01/blob/main/docs/Outsmarting_the_Screen.pptx 
 
 ATIVIDADE EXTENSIONISTA - QUIZ KAHOOT (TEMPO DE DURAÇÃO MÉDIA DE 10 MINUTOS):<br>
 
